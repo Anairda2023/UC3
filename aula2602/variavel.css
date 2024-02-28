@@ -1,0 +1,22 @@
+:root {
+    --cor-texto-body: rgb(200,5,6);
+    --cor-de-fundo: rgb(0, 0, 0);
+}
+
+main section{
+    background-color: var(--cor-texto-body);
+}
+main aside {
+    color: var(--cor-texto-body);
+}
+h1 {
+    color: var(--cor-texto-body);
+    
+}
+body{
+background-color: var(--cor-de-fundo);
+}
+
+footer{
+    color: var(--cor-texto-body);
+}
