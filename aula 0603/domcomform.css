@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+}
+section{
+    max-width: 25%;
+    margin-bottom: 20px;
+    background-color: aqua;
+    padding: 1rem;
+   
+}
+div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+label {
+    width: 200px;
+    margin-right: 10px;}
+    
+input[type="number"] {
+    flex-grow: 1;
+}    
+
+
+section button {
+    
+    margin-top: 10px;
+}
+
+h2{
+    padding: 1rem;
+}

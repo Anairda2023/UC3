@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    padding: 1rem;
+
+}
+form input{
+    margin-bottom: 1rem;
+}
+div {
+   display: flex;
+   align-items: center; 
+   margin-bottom: 1rem;  
+}
+div input {
+    margin-bottom: 0;
+}
+.Botao{
+    background-color: aqua;
+}
+
